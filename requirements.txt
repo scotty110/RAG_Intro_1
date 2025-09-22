@@ -1,0 +1,13 @@
+# MLX
+mlx-lm
+mlx-embeddings
+mlx
+
+# Supporting
+matplotlib
+transformers
+datasets
+
+# Database
+qdrant-client
+pypdf 
